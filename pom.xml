@@ -50,11 +50,11 @@
     </distributionManagement>
 
     <scm>
-       <connection>scm:git:git@github.com:rhdemoss/ticketmonster-openshift.git</connection>
-       <url>scm:git:git@github.com:rhdemoss/ticketmonster-openshift.git</url>
-       <developerConnection>scm:git:git@github.com:rhdemoss/ticketmonster-openshift.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+       <connection>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</connection>
+       <url>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</url>
+       <developerConnection>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</developerConnection>
+       <tag>HEAD</tag>
+    </scm>
 
     <dependencyManagement>
         <dependencies>
