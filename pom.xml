@@ -4,7 +4,7 @@
 
     <groupId>org.jboss.examples</groupId>
     <artifactId>ticket-monster</artifactId>
-    <version>2.6.2</version>
+    <version>2.6.3-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>ticket-monster</name>
@@ -53,7 +53,7 @@
        <connection>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</connection>
        <url>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</url>
        <developerConnection>scm:git:git@github.com:jbossdemocentral/continuous-delivery-demo-app.git</developerConnection>
-       <tag>ticket-monster-2.6.2</tag>
+       <tag>HEAD</tag>
     </scm>
 
     <dependencyManagement>
